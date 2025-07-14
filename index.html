@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EduApp</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <style>
+      .header {
+        background: linear-gradient(90deg, #007bff, #00c6ff);
+        color: white;
+        padding: 0.7rem 1rem;
+      }
+      .navbar-brand {
+        font-weight: bold;
+        font-size: 1.3rem;
+      }
+      .breadcrumb-container {
+        background-color: #f8f9fa;
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 1rem;
+        border-radius: 0.375rem;
+      }
+      .breadcrumb a {
+        text-decoration: none;
+        color: #0d6efd;
+        cursor: pointer;
+      }
+      .breadcrumb a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="navbar header d-flex justify-content-between align-items-center"
+    >
+      <button
+        class="btn text-white"
+        data-bs-toggle="offcanvas"
+        data-bs-target="#classSidebar"
+        aria-label="Toggle sidebar"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="navbar-brand text-center">EduApp</div>
+      <div>
+        <i class="fas fa-user-circle fa-2x"></i>
+      </div>
+    </nav>
+
+    <div class="breadcrumb-container">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0" id="breadcrumbTrail">
+          <li class="breadcrumb-item"><a onclick="goHome()">Home</a></li>
+        </ol>
+      </nav>
+    </div>
+
+    <div
+      class="offcanvas offcanvas-start"
+      tabindex="-1"
+      id="classSidebar"
+      style="width: 300px"
+    >
+      <div class="offcanvas-header">
+        <h5>Play School</h5>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="offcanvas"
+        ></button>
+      </div>
+      <div class="offcanvas-body" id="classList"></div>
+    </div>
+
+    <div class="container mt-4" id="subjectsContainer">
+      <div class="row" id="subjectCardsRow"></div>
+    </div>
+
+    <div class="container mt-4" id="videosContainer">
+      <div class="row" id="videoCardsRow"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0"></script>
+
+    <script>
+      const classes = [
+        "LKG",
+        "UKG",
+        "Class 1",
+        "Class 2",
+        "Class 3",
+        "Class 4",
+        "Class 5",
+      ];
+
+      const classList = document.getElementById("classList");
+      const subjectCardsRow = document.getElementById("subjectCardsRow");
+      const videoCardsRow = document.getElementById("videoCardsRow");
+      const breadcrumbTrail = document.getElementById("breadcrumbTrail");
+
+      let selectedClassGlobal = "";
+      let selectedSubjectGlobal = "";
+
+      classes.forEach((cls) => {
+        const btn = document.createElement("button");
+        btn.className = "btn btn-outline-primary w-100 mb-2";
+        btn.innerText = cls;
+        btn.onclick = () => loadSubjects(cls);
+        classList.appendChild(btn);
+      });
+
+      function updateBreadcrumb(parts) {
+        breadcrumbTrail.innerHTML = "";
+        parts.forEach((part, index) => {
+          const li = document.createElement("li");
+          li.className =
+            "breadcrumb-item" + (index === parts.length - 1 ? " active" : "");
+
+          if (index === parts.length - 1) {
+            li.setAttribute("aria-current", "page");
+            li.innerText = part;
+          } else {
+            const link = document.createElement("a");
+            link.textContent = part;
+            link.onclick = () => {
+              if (index === 0) goHome();
+              else if (index === 1) loadSubjects(parts[1]);
+              else if (index === 2) loadVideos(parts[2]);
+            };
+            li.appendChild(link);
+          }
+
+          breadcrumbTrail.appendChild(li);
+        });
+      }
+
+      function goHome() {
+        subjectCardsRow.innerHTML = "";
+        videoCardsRow.innerHTML = "";
+        updateBreadcrumb(["Home"]);
+      }
+
+      function loadSubjects(cls) {
+        selectedClassGlobal = cls;
+        selectedSubjectGlobal = "";
+        subjectCardsRow.innerHTML = "";
+        videoCardsRow.innerHTML = "";
+        updateBreadcrumb(["Home", cls]);
+
+        window.videoAPI.getSubjectsForClass(cls).then((subjects) => {
+          subjects.forEach((subj) => {
+            const col = document.createElement("div");
+            col.className = "col-md-4";
+            col.innerHTML = `
+                  <div class="card mb-3 shadow">
+                    <div class="card-body text-center">
+                      <h5 class="card-title">${subj}</h5>
+                      <button class="btn btn-sm btn-primary" onclick="loadVideos('${subj}')">View Videos</button>
+                    </div>
+                  </div>`;
+            subjectCardsRow.appendChild(col);
+          });
+        });
+      }
+
+      async function loadVideos(subject) {
+        selectedSubjectGlobal = subject;
+        videoCardsRow.innerHTML = "";
+        updateBreadcrumb(["Home", selectedClassGlobal, subject]);
+
+        const videos = await window.videoAPI.getVideosForSubject(
+          selectedClassGlobal,
+          subject
+        );
+
+        if (!videos || videos.length === 0) {
+          videoCardsRow.innerHTML = `<p class="text-danger">No videos found for "${subject}"</p>`;
+          return;
+        }
+
+        videos.forEach((video) => {
+          const col = document.createElement("div");
+          col.className = "col-md-4";
+          col.innerHTML = `
+          <div class="card mb-3 shadow">
+            <img src="${
+              video.thumbnail
+            }" class="card-img-top" style="height:200px; object-fit:cover;" />
+            <div class="card-body">
+              <h6 class="card-title">${video.title}</h6>
+              <p class="text-muted">Duration: ${video.duration}</p>
+              <button class="btn btn-sm btn-success" onclick="playVideo('${encodeURIComponent(
+                video.src
+              )}', '${encodeURIComponent(video.title)}')">Play</button>
+            </div>
+          </div>`;
+          videoCardsRow.appendChild(col);
+        });
+      }
+
+      function playVideo(src, title) {
+        window.location.href = `player.html?src=${src}&title=${title}`;
+      }
+
+      loadSubjects("LKG");
+    </script>
+  </body>
+</html>

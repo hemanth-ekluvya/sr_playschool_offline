@@ -1,0 +1,62 @@
+{
+  "name": "eduapp",
+  "version": "1.0.0",
+  "description": "Offline Educational Video Player for Kids",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "encrypt": "node encrypt-videos.js && node encrypt-license.js",
+    "dist-win": "npm run encrypt && electron-builder --win"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.5.0",
+    "electron-builder": "^24.6.0",
+    "fs-extra": "^11.3.0"
+  },
+  "build": {
+    "appId": "com.eduapp.offline",
+    "productName": "EduApp",
+    "asarUnpack": [
+      "**/enc_videos/**"
+    ],
+    "afterPack": "./afterPack.js",
+    "files": [
+      "main.js",
+      "index.html",
+      "player.html",
+      "preload.js",
+      "debug-log.txt",
+      "enc_videos/**/*",
+      "license.key"
+    ],
+    "extraFiles": [
+      {
+        "from": "license.key",
+        "to": "license.key"
+      },
+      {
+        "from": "debug-log.txt",
+        "to": "debug-log.txt"
+      },
+      {
+        "from": "enc_videos",
+        "to": "enc_videos"
+      }
+    ],
+    "directories": {
+      "buildResources": "build"
+    },
+    "win": {
+      "target": "dir"
+    }
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "node-machine-id": "^1.1.12",
+    "systeminformation": "^5.27.7",
+    "video.js": "^8.23.3"
+  }
+}

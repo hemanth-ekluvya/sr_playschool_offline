@@ -1,0 +1,4 @@
+[autorun]
+label=EduApp
+icon=icon.ico
+open=EduApp.exe

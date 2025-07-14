@@ -1,0 +1,88 @@
+/* Basic body styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hamburger icon custom style (if using Bootstrap's default) */
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.7%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+/* Offcanvas sidebar customization */
+.offcanvas-start {
+  width: 240px;
+}
+.offcanvas-title {
+  font-size: 1.25rem;
+}
+
+/* Section headings */
+h2 {
+  margin: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #343a40;
+}
+
+/* Card container layout for subjects/videos */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 0 20px 40px;
+}
+
+/* Card styling */
+.card {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+.card img {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.card-text {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+/* Plyr player container */
+#videoPlayer {
+  margin: 20px;
+  max-width: 960px;
+}
+.plyr {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+/* Button spacing */
+button.btn {
+  margin: 10px 20px;
+}
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+}

@@ -19,9 +19,7 @@
   "build": {
     "appId": "com.eduapp.offline",
     "productName": "EduApp",
-    "asarUnpack": [
-      "**/enc_videos/**"
-    ],
+    "asar": true,
     "afterPack": "./afterPack.js",
     "files": [
       "main.js",
@@ -29,7 +27,6 @@
       "player.html",
       "preload.js",
       "debug-log.txt",
-      "enc_videos/**/*",
       "license.key"
     ],
     "extraFiles": [

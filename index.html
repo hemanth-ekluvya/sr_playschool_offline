@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>EduApp</title>
+    <title>Pratham</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -12,186 +12,321 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
     />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
     <style>
+      @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+      body {
+        font-family: "Inter", sans-serif;
+      }
+      body {
+        font-family: "Poppins", sans-serif;
+        background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+      }
+      .card-hover {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card-hover:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+      }
+      .slide-up {
+        animation: slideUp 0.6s ease-out;
+      }
+      @keyframes slideUp {
+        from {
+          opacity: 0;
+          transform: translateY(40px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+
+      body {
+        display: flex;
+        font-family: "Segoe UI", sans-serif;
+        background-color: #f8f9fa;
+        flex-direction: column;
+      }
+
+      .main-container {
+        display: flex;
+        flex: 1;
+      }
+
+      .sidebar {
+        width: 250px;
+        background: linear-gradient(to bottom, #c7c4c3, #4f46e5, #9333ea);
+        color: black;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .sidebar button:hover {
+        color: linear-gradient(180deg, #2c3e50, #34495e);
+      }
+
+      .sidebar img {
+        width: 120px;
+        margin-bottom: 2rem;
+      }
+
+      .sidebar button {
+        margin-bottom: 0.5rem;
+        width: 100%;
+        color: white;
+        border-color: white;
+      }
+
+      .content-area {
+        flex: 1;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+      }
+
       .header {
         background: linear-gradient(90deg, #007bff, #00c6ff);
+        border-radius: 15px;
         color: white;
         padding: 0.7rem 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 !important;
       }
+
       .navbar-brand {
         font-weight: bold;
         font-size: 1.3rem;
       }
+
       .breadcrumb-container {
-        background-color: #f8f9fa;
+        background-color: #fff;
         padding: 0.75rem 1.25rem;
         margin-bottom: 1rem;
         border-radius: 0.375rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
       }
+
       .breadcrumb a {
         text-decoration: none;
         color: #0d6efd;
         cursor: pointer;
       }
+
       .breadcrumb a:hover {
         text-decoration: underline;
       }
     </style>
   </head>
-  <body>
-    <nav
-      class="navbar header d-flex justify-content-between align-items-center"
+  <body class="min-h-screen flex flex-col overflow-x-hidden">
+    <div class="flex flex-1">
+      <!-- Sidebar -->
+      <aside class="w-64 sidebar text-white p-6 shadow-xl">
+        <div class="text-center">
+          <div class="w-30 h-30 mx-auto flex items-center justify-center mb-4">
+            <img src="public/images/logo.png" alt="Logo" class="h-10 mx-auto" />
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main content -->
+      <main class="flex-1 flex flex-col">
+        <!-- Header -->
+        <header
+          class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-6 py-3 flex justify-between items-center"
+        >
+          <h1 class="text-3xl font-bold">Pratham</h1>
+          <button
+            class="bg-white text-indigo-600 px-4 py-2 rounded shadow hover:bg-gray-200"
+            onclick="window.location.href='aboutus.html'"
+          >
+            About Us
+          </button>
+        </header>
+
+        <!-- Add this inside <main> right after the header -->
+        <nav
+          aria-label="breadcrumb"
+          class="bg-white px-6 py-3 shadow text-sm text-indigo-700"
+        >
+          <ol class="breadcrumb mb-0 flex gap-2" id="breadcrumbTrail">
+            <li class="breadcrumb-item"><a onclick="goHome()">Home</a></li>
+          </ol>
+        </nav>
+
+        <div class="container mt-2" id="subjectsContainer">
+          <div
+            class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
+            id="subjectCardsRow"
+          ></div>
+        </div>
+
+        <div class="container mt-4" id="videosContainer">
+          <div class="row" id="videoCardsRow"></div>
+        </div>
+      </main>
+    </div>
+
+    <footer
+      class="mt-auto bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 text-white py-4"
     >
-      <button
-        class="btn text-white"
-        data-bs-toggle="offcanvas"
-        data-bs-target="#classSidebar"
-        aria-label="Toggle sidebar"
-      >
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="navbar-brand text-center">EduApp</div>
-      <div>
-        <i class="fas fa-user-circle fa-2x"></i>
+      <div class="container mx-auto px-4 text-center">
+        <!-- Logo + Name Row -->
+        <div class="flex items-center justify-center gap-2 mb-4">
+          <div
+            class="w-8 h-8 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-full flex items-center justify-center"
+          >
+            <span class="text-white font-bold text-sm">SR</span>
+          </div>
+          <span class="text-lg font-semibold">SR IT Group</span>
+        </div>
+
+        <!-- Description -->
+        <p class="text-gray-300">
+          Designed and developed by
+          <strong class="text-white">SR IT Group</strong>
+          Head Office, Madhapur, Hyderabad
+        </p>
       </div>
-    </nav>
-
-    <div class="breadcrumb-container">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb mb-0" id="breadcrumbTrail">
-          <li class="breadcrumb-item"><a onclick="goHome()">Home</a></li>
-        </ol>
-      </nav>
-    </div>
-
-    <div
-      class="offcanvas offcanvas-start"
-      tabindex="-1"
-      id="classSidebar"
-      style="width: 300px"
-    >
-      <div class="offcanvas-header">
-        <h5>Play School</h5>
-        <button
-          type="button"
-          class="btn-close"
-          data-bs-dismiss="offcanvas"
-        ></button>
-      </div>
-      <div class="offcanvas-body" id="classList"></div>
-    </div>
-
-    <div class="container mt-4" id="subjectsContainer">
-      <div class="row" id="subjectCardsRow"></div>
-    </div>
-
-    <div class="container mt-4" id="videosContainer">
-      <div class="row" id="videoCardsRow"></div>
-    </div>
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0"></script>
 
     <script>
-      const classes = [
-        "LKG",
-        "UKG",
-        "Class 1",
-        "Class 2",
-        "Class 3",
-        "Class 4",
-        "Class 5",
-      ];
+      document.addEventListener("DOMContentLoaded", () => {
+        const classes = [
+          "LKG",
+          "UKG",
+          "Class 1",
+          "Class 2",
+          "Class 3",
+          "Class 4",
+          "Class 5",
+        ];
 
-      const classList = document.getElementById("classList");
-      const subjectCardsRow = document.getElementById("subjectCardsRow");
-      const videoCardsRow = document.getElementById("videoCardsRow");
-      const breadcrumbTrail = document.getElementById("breadcrumbTrail");
+        const subjectCardsRow = document.getElementById("subjectCardsRow");
+        const videoCardsRow = document.getElementById("videoCardsRow");
+        const breadcrumbTrail = document.getElementById("breadcrumbTrail");
 
-      let selectedClassGlobal = "";
-      let selectedSubjectGlobal = "";
+        let selectedClassGlobal = "";
+        let selectedSubjectGlobal = "";
 
-      classes.forEach((cls) => {
-        const btn = document.createElement("button");
-        btn.className = "btn btn-outline-primary w-100 mb-2";
-        btn.innerText = cls;
-        btn.onclick = () => loadSubjects(cls);
-        classList.appendChild(btn);
-      });
+        function updateBreadcrumb(parts) {
+          breadcrumbTrail.innerHTML = "";
+          parts.forEach((part, index) => {
+            const li = document.createElement("li");
+            li.className =
+              "breadcrumb-item" + (index === parts.length - 1 ? " active" : "");
 
-      function updateBreadcrumb(parts) {
-        breadcrumbTrail.innerHTML = "";
-        parts.forEach((part, index) => {
-          const li = document.createElement("li");
-          li.className =
-            "breadcrumb-item" + (index === parts.length - 1 ? " active" : "");
+            if (index === parts.length - 1) {
+              li.setAttribute("aria-current", "page");
+              li.innerText = part;
+            } else {
+              const link = document.createElement("a");
+              link.textContent = part;
+              link.onclick = () => {
+                if (index === 0) goHome();
+                else if (index === 1) loadSubjects(parts[1]);
+                else if (index === 2) loadVideos(parts[2]);
+              };
+              li.appendChild(link);
+            }
 
-          if (index === parts.length - 1) {
-            li.setAttribute("aria-current", "page");
-            li.innerText = part;
-          } else {
-            const link = document.createElement("a");
-            link.textContent = part;
-            link.onclick = () => {
-              if (index === 0) goHome();
-              else if (index === 1) loadSubjects(parts[1]);
-              else if (index === 2) loadVideos(parts[2]);
-            };
-            li.appendChild(link);
+            breadcrumbTrail.appendChild(li);
+          });
+        }
+
+        function goHome() {
+          subjectCardsRow.innerHTML = "";
+          videoCardsRow.innerHTML = "";
+          updateBreadcrumb(["Home"]);
+        }
+
+        function loadSubjects(cls) {
+          selectedClassGlobal = cls;
+          selectedSubjectGlobal = "";
+          subjectCardsRow.innerHTML = "";
+          videoCardsRow.innerHTML = "";
+          updateBreadcrumb(["Home", cls]);
+
+          window.videoAPI.getSubjectsForClass(cls).then((subjects) => {
+            subjectCardsRow.innerHTML = "";
+
+            subjects.forEach((subj) => {
+              // Pick an emoji based on subject name
+              let emoji = "📚";
+              if (subj.toLowerCase().includes("english"))
+                emoji = "📚"; // Books for literature/language
+              else if (subj.toLowerCase().includes("math"))
+                emoji = "➗"; // Division symbol for mathematics
+              else if (subj.toLowerCase().includes("evs"))
+                emoji = "🌍"; // Earth for environmental studies
+              else if (subj.toLowerCase().includes("telugu"))
+                emoji = "📝"; // Writing for regional language
+              else if (subj.toLowerCase().includes("social"))
+                emoji = "🏛️"; // Government building for civics/history
+              else if (subj.toLowerCase().includes("science")) emoji = "🔬";
+              else if (subj.toLowerCase().includes("computer")) emoji = "💻";
+              else if (subj.toLowerCase().includes("hindi")) emoji = "🗣️"; // Speaking emoji for language & communication
+
+              const card = document.createElement("div");
+              card.className =
+                "card-hover slide-up bg-gradient-to-br from-indigo-400 to-indigo-600 rounded-xl shadow-lg overflow-hidden";
+
+              card.innerHTML = `
+                  <div class="text-white text-center py-8 text-4xl">${emoji}</div>
+                  <div class="bg-white text-center p-4">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">${subj}</h3>
+                    <button onclick="loadVideos('${subj}')" class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-4 py-2 rounded shadow inline-flex items-center justify-center">
+                      View Videos
+                      <svg class="ml-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M6 4l8 6-8 6V4z" />
+                      </svg>
+                    </button>
+                  </div>
+                `;
+
+              subjectCardsRow.appendChild(card);
+            });
+          });
+        }
+
+        async function loadVideos(subject) {
+          selectedSubjectGlobal = subject;
+          videoCardsRow.innerHTML = "";
+          updateBreadcrumb(["Home", selectedClassGlobal, subject]);
+
+          const videos = await window.videoAPI.getVideosForSubject(
+            selectedClassGlobal,
+            subject
+          );
+
+          if (!videos || videos.length === 0) {
+            videoCardsRow.innerHTML = `<p class="text-danger">No videos found for "${subject}"</p>`;
+            return;
           }
 
-          breadcrumbTrail.appendChild(li);
-        });
-      }
-
-      function goHome() {
-        subjectCardsRow.innerHTML = "";
-        videoCardsRow.innerHTML = "";
-        updateBreadcrumb(["Home"]);
-      }
-
-      function loadSubjects(cls) {
-        selectedClassGlobal = cls;
-        selectedSubjectGlobal = "";
-        subjectCardsRow.innerHTML = "";
-        videoCardsRow.innerHTML = "";
-        updateBreadcrumb(["Home", cls]);
-
-        window.videoAPI.getSubjectsForClass(cls).then((subjects) => {
-          subjects.forEach((subj) => {
+          videos.forEach((video) => {
             const col = document.createElement("div");
             col.className = "col-md-4";
             col.innerHTML = `
-                  <div class="card mb-3 shadow">
-                    <div class="card-body text-center">
-                      <h5 class="card-title">${subj}</h5>
-                      <button class="btn btn-sm btn-primary" onclick="loadVideos('${subj}')">View Videos</button>
-                    </div>
-                  </div>`;
-            subjectCardsRow.appendChild(col);
-          });
-        });
-      }
-
-      async function loadVideos(subject) {
-        selectedSubjectGlobal = subject;
-        videoCardsRow.innerHTML = "";
-        updateBreadcrumb(["Home", selectedClassGlobal, subject]);
-
-        const videos = await window.videoAPI.getVideosForSubject(
-          selectedClassGlobal,
-          subject
-        );
-
-        if (!videos || videos.length === 0) {
-          videoCardsRow.innerHTML = `<p class="text-danger">No videos found for "${subject}"</p>`;
-          return;
-        }
-
-        videos.forEach((video) => {
-          const col = document.createElement("div");
-          col.className = "col-md-4";
-          col.innerHTML = `
           <div class="card mb-3 shadow">
             <img src="${
               video.thumbnail
@@ -204,15 +339,31 @@
               )}', '${encodeURIComponent(video.title)}')">Play</button>
             </div>
           </div>`;
-          videoCardsRow.appendChild(col);
+            videoCardsRow.appendChild(col);
+          });
+        }
+
+        function playVideo(src, title) {
+          window.location.href = `player.html?src=${src}&title=${title}`;
+        }
+
+        // ✅ Initialize sidebar buttons
+        const sidebar = document.querySelector(".sidebar");
+        classes.forEach((cls) => {
+          const btn = document.createElement("button");
+          btn.className = "btn btn-outline-light";
+          btn.innerText = cls;
+          btn.onclick = () => loadSubjects(cls);
+          sidebar.appendChild(btn);
         });
-      }
 
-      function playVideo(src, title) {
-        window.location.href = `player.html?src=${src}&title=${title}`;
-      }
+        // ✅ Load LKG on app start
+        loadSubjects("LKG");
 
-      loadSubjects("LKG");
+        window.loadVideos = loadVideos;
+        window.playVideo = playVideo;
+        window.goHome = goHome;
+      });
     </script>
   </body>
 </html>

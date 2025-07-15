@@ -186,99 +186,88 @@ ipcMain.handle("get-topics", async (event, className, subjectName) => {
   return folders;
 });
 
+// 🔁 Recursively find all folders containing playlist.m3u8.enc
+function findVideoFoldersRecursively(basePath) {
+  const videoFolders = [];
+
+  function traverse(currentPath) {
+    if (!fs.existsSync(currentPath)) return;
+
+    const entries = fs.readdirSync(currentPath, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const fullPath = path.join(currentPath, entry.name);
+
+      if (entry.isDirectory()) {
+        const hasPlaylist = fs
+          .readdirSync(fullPath)
+          .some((f) => f.endsWith(".m3u8.enc"));
+
+        if (hasPlaylist) {
+          videoFolders.push(fullPath);
+        } else {
+          traverse(fullPath); // keep searching
+        }
+      }
+    }
+  }
+
+  traverse(basePath);
+  return videoFolders;
+}
+
+// Updated IPC handler
 ipcMain.handle(
   "get-videos",
   async (event, className, subjectName, topicName) => {
-    const videoPath = topicName
+    const rootPath = topicName
       ? path.join(VIDEO_PATH, className, subjectName, topicName)
       : path.join(VIDEO_PATH, className, subjectName);
 
-    debugLog(`📂 Scanning video path: ${videoPath}`);
+    debugLog(`📂 Recursive scan in: ${rootPath}`);
 
-    if (!fs.existsSync(videoPath)) {
-      debugLog("❌ Video path does not exist.");
-      return [];
-    }
+    const folders = findVideoFoldersRecursively(rootPath);
     const results = [];
 
-    try {
-      const entries = fs.readdirSync(videoPath);
-      for (const entry of entries) {
-        const entryPath = path.join(videoPath, entry);
-        const stat = fs.statSync(entryPath);
-        if (stat.isDirectory()) {
-          const files = fs.readdirSync(entryPath);
-          const playlist = files.find((f) => f.endsWith(".m3u8.enc"));
-          if (!playlist) continue;
+    for (const folderPath of folders) {
+      try {
+        const files = fs.readdirSync(folderPath);
+        const playlist = files.find((f) => f.endsWith(".m3u8.enc"));
+        if (!playlist) continue;
 
-          const baseName = path.basename(playlist, ".m3u8.enc");
+        const durationPath = path.join(folderPath, "duration.json");
+        const thumbnailFile = files.find((f) => /\.(jpg|jpeg|png)$/i.test(f));
 
-          const durationFile = files.find(
-            (f) => f === `duration.json`
-          );
-          const thumbnailFile = files.find((f) => /\.(jpg|jpeg|png)$/i.test(f));
-
-          let duration = "N/A";
-          if (durationFile) {
-            try {
-              const durationData = JSON.parse(
-                fs.readFileSync(path.join(entryPath, durationFile), "utf-8")
-              );
-              duration = durationData.duration || "N/A";
-            } catch (err) {
-              debugLog(
-                `❌ Failed to parse duration in ${entryPath}: ${err.message}`
-              );
-            }
+        let duration = "N/A";
+        if (fs.existsSync(durationPath)) {
+          try {
+            const durationData = JSON.parse(
+              fs.readFileSync(durationPath, "utf-8")
+            );
+            duration = durationData.duration || "N/A";
+          } catch (err) {
+            debugLog(
+              `❌ Failed to parse duration in ${folderPath}: ${err.message}`
+            );
           }
-
-          results.push({
-            title: entry.replace(/_/g, " "),
-            duration,
-            src: `encfile://${[className, subjectName, entry, playlist].join(
-              "/"
-            )}`,
-            thumbnail: thumbnailFile
-              ? `file://${path.join(entryPath, thumbnailFile)}`
-              : "default.jpg",
-          });
         }
 
-        // 📄 DIRECT FILE CASE
-        if (stat.isFile() && entry.endsWith(".m3u8.enc")) {
-          const baseName = path.basename(entry, ".m3u8.enc");
-          const durationPath = path.join(
-            videoPath,
-            `${baseName}_duration.json`
-          );
-          const image = entries.find(
-            (f) => f.startsWith(baseName) && /\.(jpg|jpeg|png)$/i.test(f)
-          );
+        const relativePath = path.relative(
+          VIDEO_PATH,
+          path.join(folderPath, playlist)
+        );
 
-          let duration = "N/A";
-          if (fs.existsSync(durationPath)) {
-            try {
-              const json = JSON.parse(fs.readFileSync(durationPath, "utf-8"));
-              duration = json.duration || "N/A";
-            } catch (err) {
-              debugLog(
-                `❌ Failed to parse duration for ${entry}: ${err.message}`
-              );
-            }
-          }
-
-          results.push({
-            title: baseName.replace(/_/g, " "),
-            duration,
-            src: `encfile://${[className, subjectName, entry].join("/")}`,
-            thumbnail: image
-              ? `file://${path.join(videoPath, image)}`
-              : "default.jpg",
-          });
-        }
+        results.push({
+          title: path.basename(folderPath).replace(/_/g, " "),
+          duration,
+          src: `encfile://${relativePath.replace(/\\/g, "/")}`,
+          thumbnail: thumbnailFile
+            ? `file://${path.join(folderPath, thumbnailFile)}`
+            : "default.jpg",
+        });
+      } catch (err) {
+        debugLog(`❌ Failed in folder ${folderPath}: ${err.message}`);
       }
-    } catch (e) {
-      debugLog(`❌ Error reading video path: ${e.message}`);
     }
 
     debugLog(`🎬 Videos found: ${results.length}`);

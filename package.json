@@ -1,5 +1,5 @@
 {
-  "name": "eduapp",
+  "name": "pratham",
   "version": "1.0.0",
   "description": "Offline Educational Video Player for Kids",
   "main": "main.js",
@@ -17,8 +17,8 @@
     "fs-extra": "^11.3.0"
   },
   "build": {
-    "appId": "com.eduapp.offline",
-    "productName": "EduApp",
+    "appId": "com.Pratham.offline",
+    "productName": "Pratham",
     "asar": true,
     "afterPack": "./afterPack.js",
     "files": [

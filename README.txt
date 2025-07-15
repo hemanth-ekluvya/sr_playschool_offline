@@ -1,2 +1,2 @@
-Welcome to EduApp
-Double click "EduApp.exe" to start the app.
+Welcome to Pratham
+Double click "Pratham.exe" to start the app.

@@ -100,11 +100,21 @@ app.whenReady().then(async () => {
 
   // 🔗 Register custom protocol
   protocol.registerBufferProtocol("encfile", (request, respond) => {
-    const relativePath = decodeURIComponent(
-      request.url.replace("encfile://", "")
-    );
+    const requestedUrl = request.url;
+    debugLog(`📥 Raw encfile request: ${requestedUrl}`);
+
+    let relativePath;
+    try {
+      relativePath = decodeURIComponent(requestedUrl.replace("encfile://", ""));
+      debugLog(`✅ Decoded path: ${relativePath}`);
+    } catch (err) {
+      debugLog(`❌ URL decode failed: ${err.message}`);
+      respond({ statusCode: 400 });
+      return;
+    }
+
     const fullPath = path.join(VIDEO_PATH, relativePath);
-    debugLog(`📦 Requested encrypted file: ${fullPath}`);
+    debugLog(`📦 Full decrypted file path: ${fullPath}`);
 
     try {
       const encrypted = fs.readFileSync(fullPath);
@@ -186,7 +196,6 @@ ipcMain.handle("get-topics", async (event, className, subjectName) => {
   return folders;
 });
 
-// 🔁 Recursively find all folders containing playlist.m3u8.enc
 function findVideoFoldersRecursively(basePath) {
   const videoFolders = [];
 
@@ -206,7 +215,7 @@ function findVideoFoldersRecursively(basePath) {
         if (hasPlaylist) {
           videoFolders.push(fullPath);
         } else {
-          traverse(fullPath); // keep searching
+          traverse(fullPath);
         }
       }
     }
@@ -216,7 +225,6 @@ function findVideoFoldersRecursively(basePath) {
   return videoFolders;
 }
 
-// Updated IPC handler
 ipcMain.handle(
   "get-videos",
   async (event, className, subjectName, topicName) => {
@@ -260,7 +268,9 @@ ipcMain.handle(
         results.push({
           title: path.basename(folderPath).replace(/_/g, " "),
           duration,
-          src: `encfile://${relativePath.replace(/\\/g, "/")}`,
+          src: `encfile://${encodeURIComponent(
+            relativePath.replace(/\\/g, "/")
+          )}`,
           thumbnail: thumbnailFile
             ? `file://${path.join(folderPath, thumbnailFile)}`
             : "default.jpg",

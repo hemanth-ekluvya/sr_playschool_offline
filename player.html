@@ -72,7 +72,6 @@
     <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0"></script>
     <script>
-      const player = new Plyr("#player");
       const urlParams = new URLSearchParams(window.location.search);
       let videoSrc = decodeURIComponent(urlParams.get("src"));
       const videoTitle = decodeURIComponent(urlParams.get("title") || "");
@@ -80,15 +79,25 @@
 
       document.getElementById("videoTitle").innerText = videoTitle;
 
-      if (Hls.isSupported() && videoSrc.startsWith("encfile://")) {
+      if (Hls.isSupported()) {
+        // ✅ Ensure the encfile URL is correctly formatted
+        const decodedSrc = decodeURIComponent(videoSrc);
+        const properSrc = decodedSrc.replace(/^encfile:\/{2}/, "encfile:///");
+
+        console.log("🔗 Final video src:", properSrc);
+
         const hls = new Hls();
-        hls.loadSource(videoSrc); // ✅ Use as-is
+        hls.loadSource(properSrc);
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED, () => {
           video.play();
         });
+        hls.on(Hls.Events.ERROR, function (event, data) {
+          console.error(`❌ HLS error: ${data.type} - ${data.details}`);
+        });
       } else {
-        video.src = videoSrc;
+        console.error("❌ HLS not supported.");
+        video.src = properSrc;
         video.play();
       }
 

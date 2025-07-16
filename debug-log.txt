@@ -121,3 +121,789 @@
 [2025-07-16T04:18:48.962Z] ✅ Subjects: EVS, English, Hindi, Maths, Telugu
 [2025-07-16T04:18:55.849Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
 [2025-07-16T04:18:55.850Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T04:29:17.656Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T04:29:17.658Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T04:29:17.658Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T04:29:17.660Z] ✅ Authorized
+[2025-07-16T04:29:18.281Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:29:18.283Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:29:21.552Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T04:29:21.556Z] 🎬 Videos found: 1
+[2025-07-16T04:29:21.556Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T04:29:22.990Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T04:29:23.130Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T04:29:23.269Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T04:29:23.293Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T04:29:26.727Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_003.ts.enc
+[2025-07-16T04:29:27.260Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:29:27.261Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:29:29.383Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T04:29:29.384Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T04:29:32.559Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/Maths
+[2025-07-16T04:29:32.576Z] 🎬 Videos found: 21
+[2025-07-16T04:29:32.576Z] ✅ ADDITION AND SUBTRACTION OF TWO   DIGIT NUMBERS   CLASS 1   CHAPTER 6 - 15:39 - encfile://Class 1/Maths/ADDITION_AND_SUBTRACTION_OF_TWO___DIGIT_NUMBERS___CLASS_1___CHAPTER_6/playlist.m3u8.enc
+[2025-07-16T04:29:32.576Z] ✅ ADDITION OF NUMBERS   CLASS 1 - 10:60 - encfile://Class 1/Maths/ADDITION_OF_NUMBERS___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.576Z] ✅ ADDITION UP TO 20   CLASS 1   MATHEMATICS   FLASH AND STRINGS - 5:21 - encfile://Class 1/Maths/ADDITION_UP_TO_20___CLASS_1___MATHEMATICS___FLASH_AND_STRINGS/playlist.m3u8.enc
+[2025-07-16T04:29:32.576Z] ✅ ADDITION   WITHIN 20     CHAPTER 3   CLASS 1 - 11:05 - encfile://Class 1/Maths/ADDITION___WITHIN_20_____CHAPTER_3___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.576Z] ✅ CHAPTER 2   ADDITION UP TO 10 - 15:02 - encfile://Class 1/Maths/CHAPTER_2___ADDITION_UP_TO_10/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ CHAPTER 3   SUBTRACTION UP TO 10 - 14:23 - encfile://Class 1/Maths/CHAPTER_3___SUBTRACTION_UP_TO_10/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ DATA HANDLING   CLASS 1 - 1:17 - encfile://Class 1/Maths/DATA_HANDLING___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ DIVISION   CLASS 1 - 3:59 - encfile://Class 1/Maths/DIVISION___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ MONEY   CLASS 1 - 3:23 - encfile://Class 1/Maths/MONEY___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ MULTIPLICATION   CLASS 1 - 13:46 - encfile://Class 1/Maths/MULTIPLICATION___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ NUMBERS 1 TO 10   CHAPTER 1   CLASS 1 - 34:09 - encfile://Class 1/Maths/NUMBERS_1_TO_10___CHAPTER_1___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ NUMBERS FROM 21 TO 100   CLASS 1   CHAPTER 5 - 18:24 - encfile://Class 1/Maths/NUMBERS_FROM_21_TO_100___CLASS_1___CHAPTER_5/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ NUMBERS UPTO 100   CLASS 1 - 9:19 - encfile://Class 1/Maths/NUMBERS_UPTO_100___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ NUMBERS UPTO 50 - 9:33 - encfile://Class 1/Maths/NUMBERS_UPTO_50/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ NUMBER 11 TO 20   CHAPTER 2   CLASS 1 - 13:29 - encfile://Class 1/Maths/NUMBER_11_TO_20___CHAPTER_2___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 4   TERM 2  CH 1 MATHS SHAPES - 5:24 - encfile://Class 1/Maths/ORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_4___TERM_2__CH_1_MATHS_SHAPES/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ PATTERNS   CLASS 1 - 3:09 - encfile://Class 1/Maths/PATTERNS___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ RIVISION - 16:24 - encfile://Class 1/Maths/RIVISION/playlist.m3u8.enc
+[2025-07-16T04:29:32.577Z] ✅ SUBTRACTION WITHIN 20   MATHEMATICS   CLASS 1 - 15:31 - encfile://Class 1/Maths/SUBTRACTION_WITHIN_20___MATHEMATICS___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.578Z] ✅ SUBTRACTION   CLASS 1 - 6:06 - encfile://Class 1/Maths/SUBTRACTION___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:32.578Z] ✅ TIME   MATHEMATICS   CLASS 1 - 5:14 - encfile://Class 1/Maths/TIME___MATHEMATICS___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:40.900Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:29:40.901Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:29:42.391Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T04:29:42.392Z] 🎬 Videos found: 1
+[2025-07-16T04:29:42.392Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T04:29:43.582Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T04:29:43.703Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T04:29:43.816Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T04:29:43.840Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T04:29:45.218Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:29:45.218Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:29:49.527Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T04:29:49.527Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T04:29:51.879Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T04:29:51.900Z] 🎬 Videos found: 44
+[2025-07-16T04:29:51.900Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/AT_THE_SCHOOL_CLASS_1_CHAPTER_9/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/A_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/A_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/FREDDY_AND_MANNU_CLASS_1_CHAPTER_2/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/GEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/IN_THE_PARK_Chapter_1_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/LUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/POEM_A_LITTLE_CLOUD_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/POEM_MAMA_AND_ME_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.900Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/POEM_MY_NEW_FRIEND_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/POEM_THE_PLAYFUL_KITTEN_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/POEM_THE_SWING_CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class 1/English/ENGLISH_ADVENTURE_BOOK/THE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___Five_eggs/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___Ice_Cream/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___Snowball/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_Chapter___This_is_Me/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/Flash_and_Strings___Class_1___English_chapter____My_House/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/GANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/GOD_CREATED_TEACHERS___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/KING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.901Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/MOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/NAUGHTY_BUNNY___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/PUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/RABBITS___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/SUMMER_TIME___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/THE_CLEVER_KID___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/THE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/TRUE_FRIEND___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class 1/English/FUSION_TERM_ENGLISH_CLASS_BOOK/WILD_ANIMALS_POEM___ENGLISH___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/APPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/APPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/APPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/APPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.902Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.903Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.903Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/English_Chapter___FORESTS__OUR_FRIENDS___class_1/playlist.m3u8.enc
+[2025-07-16T04:29:51.903Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US/playlist.m3u8.enc
+[2025-07-16T04:29:51.903Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class 1/English/ORCHID_ENGLISH_CLASS_BOOK/ORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS/playlist.m3u8.enc
+[2025-07-16T04:40:51.488Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T04:40:51.490Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T04:40:51.490Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T04:40:51.491Z] ✅ Authorized
+[2025-07-16T04:40:52.090Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:40:52.090Z] ❌ Class folder not found.
+[2025-07-16T04:40:55.189Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:40:55.190Z] ❌ Class folder not found.
+[2025-07-16T04:40:56.164Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/UKG
+[2025-07-16T04:40:56.165Z] ❌ Class folder not found.
+[2025-07-16T04:40:57.220Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T04:40:57.221Z] ❌ Class folder not found.
+[2025-07-16T04:40:58.493Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 2
+[2025-07-16T04:40:58.493Z] ❌ Class folder not found.
+[2025-07-16T04:40:59.109Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 3
+[2025-07-16T04:40:59.110Z] ❌ Class folder not found.
+[2025-07-16T04:40:59.508Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 4
+[2025-07-16T04:40:59.509Z] ❌ Class folder not found.
+[2025-07-16T04:41:00.156Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 5
+[2025-07-16T04:41:00.157Z] ❌ Class folder not found.
+[2025-07-16T04:41:01.780Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:41:01.781Z] ❌ Class folder not found.
+[2025-07-16T04:41:51.633Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T04:41:51.635Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T04:41:51.635Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T04:41:51.636Z] ✅ Authorized
+[2025-07-16T04:41:52.158Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:41:52.160Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:41:55.341Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T04:41:55.342Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T04:41:57.605Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T04:41:57.621Z] 🎬 Videos found: 44
+[2025-07-16T04:41:57.622Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.622Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.622Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.623Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.623Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.623Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.623Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.623Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.624Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.624Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.624Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.624Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.624Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.625Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.626Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.627Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.627Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.627Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.627Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.627Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.628Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.629Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.632Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T04:41:57.633Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T04:42:06.352Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:42:06.352Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:45:21.538Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T04:45:21.540Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T04:45:21.541Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T04:45:21.542Z] ✅ Authorized
+[2025-07-16T04:45:22.225Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:45:22.227Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:45:25.157Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T04:45:25.160Z] 🎬 Videos found: 1
+[2025-07-16T04:45:25.160Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:26.429Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T04:45:26.556Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T04:45:26.684Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T04:45:26.706Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T04:45:30.153Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_003.ts.enc
+[2025-07-16T04:45:30.775Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_028.ts.enc
+[2025-07-16T04:45:30.811Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_029.ts.enc
+[2025-07-16T04:45:30.847Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_030.ts.enc
+[2025-07-16T04:45:32.197Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:45:32.198Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T04:45:33.412Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T04:45:33.413Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T04:45:34.732Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T04:45:34.749Z] 🎬 Videos found: 44
+[2025-07-16T04:45:34.749Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.749Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.749Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.749Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.749Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.750Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.751Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.752Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.753Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:34.754Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T04:45:42.557Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T04:45:42.558Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:19:36.957Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:19:36.959Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:19:36.959Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:19:36.960Z] ✅ Authorized
+[2025-07-16T05:19:37.566Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:19:37.568Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:19:39.955Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T05:19:39.957Z] 🎬 Videos found: 1
+[2025-07-16T05:19:39.957Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:41.610Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:19:41.740Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:19:41.867Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:19:41.889Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:19:44.065Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:19:44.066Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:19:45.378Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:19:45.378Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:19:46.321Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T05:19:46.337Z] 🎬 Videos found: 44
+[2025-07-16T05:19:46.337Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.338Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.339Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.340Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.341Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:46.342Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:54.463Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:19:54.464Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:19:56.442Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 5
+[2025-07-16T05:19:56.442Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:19:59.722Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science
+[2025-07-16T05:19:59.744Z] 🎬 Videos found: 30
+[2025-07-16T05:19:59.744Z] ✅ 1. AMAZING SCIENCE - CHAPTER-1 - REPRODUCTION IN PLANTS - 16:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2F1.%20AMAZING_SCIENCE%20-%20CHAPTER-1%20-%20REPRODUCTION_IN_PLANTS%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 2   FOOD AND HEALTH - 23:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 3   SAFETY AND FIRST AID - 13:39 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_3___SAFETY_AND_FIRST_AID%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 4   A HOUSE TO LIVE IN - 10:38 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_4___A_HOUSE_TO_LIVE_IN%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 5   SOLIDS  LIQUIDS AND GASES - 12:41 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_5___SOLIDS__LIQUIDS_AND_GASES%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE   CHAPTER   ROCKS AND MINERALS - 20:06 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE___CHAPTER___ROCKS_AND_MINERALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE    CHAPTER   SOIL EROSION AND SOIL CONSERVATION - 10:49 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE____CHAPTER___SOIL_EROSION_AND_SOIL_CONSERVATION%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ SCIENCE CHAPTER   AMAZING WORLD OF ANIMALS   CLASS 5 - 17:30 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___AMAZING_WORLD_OF_ANIMALS___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ SCIENCE CHAPTER   FORCE AND ENRGY   CLASS 5 - 19:46 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___FORCE_AND_ENRGY___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.744Z] ✅ SCIENCE CHAPTER   MOON THE NATURAL SATELLITE OF THE EARTH   CLASS 5 - 17:22 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___MOON_THE_NATURAL_SATELLITE_OF_THE_EARTH___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SCIENCE CHAPTER   NATURAL CALAMITIES   CLASS 5 - 11:24 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___NATURAL_CALAMITIES___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SCIENCE CHAPTER   OUR ENVIRONMENT   CLASS 5 - 13:47 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_ENVIRONMENT___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SCIENCE CHAPTER   OUR NERVOUS SYSTEM   CLASS 5 - 16:20 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_NERVOUS_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SCIENCE CHAPTER   OUR SKELETAL SYSTEM   CLASS 5 - 15:33 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_SKELETAL_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SCIENCE CHAPTER    ESSENTIALS FOR LIFE   CLASS 5 - 25:59 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER____ESSENTIALS_FOR_LIFE___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ AIR AND WATER   CLASS 5   CHAPTER 12 - 15:34 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FAIR_AND_WATER___CLASS_5___CHAPTER_12%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ ANIMAL KINGDOM   CLASS 5   CHAPTER 5 - 15:48 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FANIMAL_KINGDOM___CLASS_5___CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ CHANGES IN OUR ENVIRONMENT   CLASS 5   CHAPTER 14 - 9:32 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FCHANGES_IN_OUR_ENVIRONMENT___CLASS_5___CHAPTER_14%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ FOOD AND HEALTH   CLASS 5   CHAPTER 1 - 15:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FFOOD_AND_HEALTH___CLASS_5___CHAPTER_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ GERMS AND DISEASES   CLASS 5   CHAPTER 9 - 18:05 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FGERMS_AND_DISEASES___CLASS_5___CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ MATERIALS FROM EARTH   CLASS 5   CHAPTER 3 - 8:56 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FMATERIALS_FROM_EARTH___CLASS_5___CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ NATURAL DISASTERS   CLASS 5   CHAPTER 15 - 8:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FNATURAL_DISASTERS___CLASS_5___CHAPTER_15%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ REPRODUCTION IN PLANTS   CLASS 5   CHAPTER 6 - 13:06 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FREPRODUCTION_IN_PLANTS___CLASS_5___CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SAFETY AND FIRST AID   CLASS 5   CHAPTER 10 - 13:19 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSAFETY_AND_FIRST_AID___CLASS_5___CHAPTER_10%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.745Z] ✅ SIMPLE MACHINES   CLASS 5   CHAPTER 11 - 10:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSIMPLE_MACHINES___CLASS_5___CHAPTER_11%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.746Z] ✅ SOIL EROSION AND SOIL CONSERVATION   CLASS 5   CHAPTER 2 - 8:14 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSOIL_EROSION_AND_SOIL_CONSERVATION___CLASS_5___CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.746Z] ✅ STATES OF MATTER   CLASS 5   CHAPTER 4 - 15:09 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSTATES_OF_MATTER___CLASS_5___CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.746Z] ✅ THE CIRCULATORY AND THE EXCRETORY SYSTEM   CLASS 5   CHAPTER 8 - 13:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_CIRCULATORY_AND_THE_EXCRETORY_SYSTEM___CLASS_5___CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.746Z] ✅ THE SKELETAL SYSTEM AND THE NERVOUR SYSTEM   CASS 5   CHAPTER 7 - 17:33 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_SKELETAL_SYSTEM_AND_THE_NERVOUR_SYSTEM___CASS_5___CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:19:59.746Z] ✅ THE UNIVERSE AND ITS NATURAL OBJECTS   CLASS 5   CHAPTER 13 - 12:57 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_UNIVERSE_AND_ITS_NATURAL_OBJECTS___CLASS_5___CHAPTER_13%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:46.151Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:27:46.153Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:27:46.153Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:27:46.154Z] ✅ Authorized
+[2025-07-16T05:27:46.760Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:27:46.762Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:27:49.697Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:27:49.697Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:27:51.328Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:27:51.329Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:27:52.105Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T05:27:52.108Z] 🎬 Videos found: 1
+[2025-07-16T05:27:52.109Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:53.921Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:27:54.054Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:27:54.191Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:27:54.215Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:27:56.584Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:27:56.584Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:27:57.440Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:27:57.441Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:27:58.360Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T05:27:58.374Z] 🎬 Videos found: 44
+[2025-07-16T05:27:58.374Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.374Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.374Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.375Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.376Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.377Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.378Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T05:27:58.379Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:08.392Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:28:08.393Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:28:38.601Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:28:38.603Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:28:38.603Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:28:38.604Z] ✅ Authorized
+[2025-07-16T05:28:39.194Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:28:39.196Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:28:41.929Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:28:41.930Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:28:44.536Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:28:44.537Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:28:45.417Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T05:28:45.419Z] 🎬 Videos found: 1
+[2025-07-16T05:28:45.420Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:47.064Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:28:47.197Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:28:47.324Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:28:47.347Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:28:49.619Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:28:49.620Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:28:50.552Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:28:50.553Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:28:51.528Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T05:28:51.543Z] 🎬 Videos found: 44
+[2025-07-16T05:28:51.543Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.543Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.543Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.543Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.543Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.544Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.545Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.546Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.547Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:51.548Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T05:28:57.476Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:28:57.477Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:34:56.253Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:34:56.255Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:34:56.256Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:34:56.257Z] ✅ Authorized
+[2025-07-16T05:34:56.867Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:34:56.869Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:35:01.661Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T05:35:01.663Z] 🎬 Videos found: 1
+[2025-07-16T05:35:01.664Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:03.059Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:35:03.059Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:35:03.060Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:35:03.194Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:35:03.194Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:35:03.195Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:35:03.333Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:35:03.334Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:35:03.334Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:35:03.358Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:35:03.359Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:35:03.359Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:35:05.974Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_029.ts.enc
+[2025-07-16T05:35:05.975Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_029.ts.enc
+[2025-07-16T05:35:05.975Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_029.ts.enc
+[2025-07-16T05:35:06.008Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_030.ts.enc
+[2025-07-16T05:35:06.009Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_030.ts.enc
+[2025-07-16T05:35:06.009Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_030.ts.enc
+[2025-07-16T05:35:06.042Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_031.ts.enc
+[2025-07-16T05:35:06.042Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_031.ts.enc
+[2025-07-16T05:35:06.042Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_031.ts.enc
+[2025-07-16T05:35:06.066Z] 🔗 Raw encfile request URL: encfile://LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_032.ts.enc
+[2025-07-16T05:35:06.066Z] ✅ Decoded relative path: LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_032.ts.enc
+[2025-07-16T05:35:06.066Z] 📦 Requested encrypted file: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_032.ts.enc
+[2025-07-16T05:35:07.571Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:35:07.572Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:35:08.716Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:35:08.716Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:35:09.835Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T05:35:09.849Z] 🎬 Videos found: 44
+[2025-07-16T05:35:09.850Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.850Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.850Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.850Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.851Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.851Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.851Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.851Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.851Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.852Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.852Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.852Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.852Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.852Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.853Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.854Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.854Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.854Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.854Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.854Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.855Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.855Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.855Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.855Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.855Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.856Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.857Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.857Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.857Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.857Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.857Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.858Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.858Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T05:35:09.858Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:26.912Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:38:26.914Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:38:26.914Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:38:26.915Z] ✅ Authorized
+[2025-07-16T05:38:27.570Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:38:27.572Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:38:30.302Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS
+[2025-07-16T05:38:30.304Z] 🎬 Videos found: 1
+[2025-07-16T05:38:30.305Z] ✅ in y2mate.com   JUNIOR KG TODDLER PLAY  EVS  SEM 1 1080 - 9:31 - encfile://LKG%2FEVS%2Fin_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:32.021Z] 📥 Raw encfile request: encfile:///LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:38:32.021Z] ✅ Decoded path: /LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:38:32.021Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/playlist.m3u8.enc
+[2025-07-16T05:38:32.155Z] 📥 Raw encfile request: encfile:///LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:38:32.156Z] ✅ Decoded path: /LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:38:32.156Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_000.ts.enc
+[2025-07-16T05:38:32.283Z] 📥 Raw encfile request: encfile:///LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:38:32.283Z] ✅ Decoded path: /LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:38:32.284Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_001.ts.enc
+[2025-07-16T05:38:32.308Z] 📥 Raw encfile request: encfile:///LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:38:32.309Z] ✅ Decoded path: /LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:38:32.309Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_002.ts.enc
+[2025-07-16T05:38:35.752Z] 📥 Raw encfile request: encfile:///LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_003.ts.enc
+[2025-07-16T05:38:35.753Z] ✅ Decoded path: /LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_003.ts.enc
+[2025-07-16T05:38:35.753Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/EVS/in_y2mate.com___JUNIOR_KG_TODDLER_PLAY__EVS__SEM_1_1080/segment_003.ts.enc
+[2025-07-16T05:38:43.332Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:38:43.332Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:38:45.125Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English
+[2025-07-16T05:38:45.130Z] 🎬 Videos found: 5
+[2025-07-16T05:38:45.130Z] ✅ JUNIOR KG TODDLER PLAY STORIES SEM 1 1080p - 7:47 - encfile://LKG%2FEnglish%2FJUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:45.130Z] ✅ JUNIOR KG  TODDLER PLAY  ENGLISH  SEMESTER 1 - 22:39 - encfile://LKG%2FEnglish%2FJUNIOR_KG__TODDLER_PLAY__ENGLISH__SEMESTER_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:45.130Z] ✅ JUNIOR KG  TODDLER PLAY  HAND WRITING SEM 1 - 2:32 - encfile://LKG%2FEnglish%2FJUNIOR_KG__TODDLER_PLAY__HAND_WRITING_SEM_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:45.131Z] ✅ JUNIOR KG  TODDLER PLAY  PHONICS  SEMESTER 1 - 5:28 - encfile://LKG%2FEnglish%2FJUNIOR_KG__TODDLER_PLAY__PHONICS__SEMESTER_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:45.131Z] ✅ TODDLER PLAY  RHYMES  SEMESTER 1  JUNIOR KG 1080 - 2:48 - encfile://LKG%2FEnglish%2FTODDLER_PLAY__RHYMES__SEMESTER_1__JUNIOR_KG_1080%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:46.866Z] 📥 Raw encfile request: encfile:///LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/playlist.m3u8.enc
+[2025-07-16T05:38:46.867Z] ✅ Decoded path: /LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/playlist.m3u8.enc
+[2025-07-16T05:38:46.867Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/playlist.m3u8.enc
+[2025-07-16T05:38:46.989Z] 📥 Raw encfile request: encfile:///LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_000.ts.enc
+[2025-07-16T05:38:46.989Z] ✅ Decoded path: /LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_000.ts.enc
+[2025-07-16T05:38:46.989Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_000.ts.enc
+[2025-07-16T05:38:47.155Z] 📥 Raw encfile request: encfile:///LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_001.ts.enc
+[2025-07-16T05:38:47.155Z] ✅ Decoded path: /LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_001.ts.enc
+[2025-07-16T05:38:47.155Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_001.ts.enc
+[2025-07-16T05:38:47.223Z] 📥 Raw encfile request: encfile:///LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_002.ts.enc
+[2025-07-16T05:38:47.223Z] ✅ Decoded path: /LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_002.ts.enc
+[2025-07-16T05:38:47.223Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_002.ts.enc
+[2025-07-16T05:38:47.788Z] 📥 Raw encfile request: encfile:///LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_003.ts.enc
+[2025-07-16T05:38:47.789Z] ✅ Decoded path: /LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_003.ts.enc
+[2025-07-16T05:38:47.789Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/LKG/English/JUNIOR_KG_TODDLER_PLAY_STORIES_SEM_1_1080p/segment_003.ts.enc
+[2025-07-16T05:38:51.131Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:38:51.132Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:38:52.437Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 1
+[2025-07-16T05:38:52.438Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:38:53.828Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English
+[2025-07-16T05:38:53.846Z] 🎬 Videos found: 44
+[2025-07-16T05:38:53.847Z] ✅ AARAV AND KAVYA  CLASS 1 CHAPTER 6 - 2:10 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAARAV_AND_KAVYA__CLASS_1_CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ AT THE SCHOOL CLASS 1 CHAPTER 9 - 3:45 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FAT_THE_SCHOOL_CLASS_1_CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ A DAT AT THE BEACH CLASS 1 CHAPTER 8 - 2:31 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAT_AT_THE_BEACH_CLASS_1_CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ A DAY AT THE ZOO CLASS 1 CHAPTER 3 - 5:22 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FA_DAY_AT_THE_ZOO_CLASS_1_CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ FREDDY AND MANNU CLASS 1 CHAPTER 2 - 5:37 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FFREDDY_AND_MANNU_CLASS_1_CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ GEORGE AND THE BANANAS CLASS 1 CHAPTER 7 - 2:52 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FGEORGE_AND_THE_BANANAS_CLASS_1_CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ IN THE PARK Chapter 1 CLASS 1 - 3:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FIN_THE_PARK_Chapter_1_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.847Z] ✅ LUCY AND THE MAGICAL FAIRY CLASS 1 CHAPTER 4 - 3:48 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FLUCY_AND_THE_MAGICAL_FAIRY_CLASS_1_CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ POEM A LITTLE CLOUD CLASS 1 - 0:36 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_A_LITTLE_CLOUD_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ POEM MAMA AND ME CLASS 1 - 0:46 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MAMA_AND_ME_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ POEM MY NEW FRIEND CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_MY_NEW_FRIEND_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ POEM THE PLAYFUL KITTEN CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_PLAYFUL_KITTEN_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ POEM THE SWING CLASS 1 - 1:02 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FPOEM_THE_SWING_CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ THE ELEPHANT'S WISH CLASS 1 CHAPTER 5 - 4:29 - encfile://Class%201%2FEnglish%2FENGLISH_ADVENTURE_BOOK%2FTHE_ELEPHANT'S_WISH_CLASS_1_CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ Flash and Strings   Class 1   English Chapter   Five eggs - 0:43 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Five_eggs%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ Flash and Strings   Class 1   English Chapter   Fun at the farm - 2:37 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Fun_at_the_farm%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ Flash and Strings   Class 1   English Chapter   Ice Cream - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Ice_Cream%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.848Z] ✅ Flash and Strings   Class 1   English Chapter   Snowball - 0:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___Snowball%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ Flash and Strings   Class 1   English Chapter   The weaver and the genie - 2:20 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___The_weaver_and_the_genie%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ Flash and Strings   Class 1   English Chapter   This is Me - 1:25 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_Chapter___This_is_Me%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ Flash and Strings   Class 1   English chapter    My House - 0:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FFlash_and_Strings___Class_1___English_chapter____My_House%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ GANDHI'JI'S CHILDHOOD TALE   ENGLISH   CLASS 1 - 1:31 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGANDHI'JI'S_CHILDHOOD_TALE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ GOD CREATED TEACHERS   ENGLISH   CLASS 1 - 1:39 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FGOD_CREATED_TEACHERS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ KING BRUCE AND THE SPIDER   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FKING_BRUCE_AND_THE_SPIDER___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ MOTHER  SHAKE THE CHERRY TREE   ENGLISH   CLASS 1 - 2:40 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FMOTHER__SHAKE_THE_CHERRY_TREE___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ NAUGHTY BUNNY   ENGLISH   CLASS 1 - 6:45 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FNAUGHTY_BUNNY___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.849Z] ✅ PUNCTUALITY   THE ROAD TO SUCCESS   ENGLISH   CLASS 1 - 5:29 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FPUNCTUALITY___THE_ROAD_TO_SUCCESS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ RABBITS   ENGLISH   CLASS 1 - 2:42 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FRABBITS___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ SUMMER TIME   ENGLISH   CLASS 1 - 2:03 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FSUMMER_TIME___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ THE CLEVER KID   ENGLISH   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_CLEVER_KID___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ THE PIGEON AND THE CROW   ENGLISH   CLASS 1 - 4:22 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTHE_PIGEON_AND_THE_CROW___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ TRUE FRIEND   ENGLISH   CLASS 1 - 0:34 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FTRUE_FRIEND___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.850Z] ✅ WILD ANIMALS POEM   ENGLISH   CLASS 1 - 0:26 - encfile://Class%201%2FEnglish%2FFUSION_TERM_ENGLISH_CLASS_BOOK%2FWILD_ANIMALS_POEM___ENGLISH___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.851Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 1   WE ARE ANIMALS - 2:29 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_1___WE_ARE_ANIMALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.851Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 2   A CROCODILE IN THE SCHOOL - 2:17 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_2___A_CROCODILE_IN_THE_SCHOOL%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.851Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 3    A FLY FORGETS HER NAME - 1:47 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_3____A_FLY_FORGETS_HER_NAME%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.851Z] ✅ APPLE ORCHID ENGLISH   CLASS 1   CHAPTER 4   VEGGIE WORLD - 2:31 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FAPPLE_ORCHID_ENGLISH___CLASS_1___CHAPTER_4___VEGGIE_WORLD%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.851Z] ✅ ENGLISH CHAPTER   A DREAM COME TRUE   CLASS 1 - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_DREAM_COME_TRUE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ ENGLISH CHAPTER   A PET AT HOME   CLASS 1 - 2:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___A_PET_AT_HOME___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ ENGLISH CHAPTER   THE FOX AND THE CRANE   CLASS 1 - 2:50 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_FOX_AND_THE_CRANE___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ ENGLISH CHAPTER   THE HOT SEASON   CLASS 1 - 2:12 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FENGLISH_CHAPTER___THE_HOT_SEASON___CLASS_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ English Chapter   FORESTS  OUR FRIENDS   class 1 - 2:35 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FEnglish_Chapter___FORESTS__OUR_FRIENDS___class_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 5   TERM 2  CH 1 ENGLISH  PEOPLE WHO HELP US - 1:23 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_5___TERM_2__CH_1_ENGLISH__PEOPLE_WHO_HELP_US%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:53.852Z] ✅ ORANGE LEAF PUBLISHERS CLASS 1 SEM 1  CH 6   TERM 2  CH 2 ENGLISH DIFFERENT COLOURS - 1:48 - encfile://Class%201%2FEnglish%2FORCHID_ENGLISH_CLASS_BOOK%2FORANGE_LEAF_PUBLISHERS_CLASS_1_SEM_1__CH_6___TERM_2__CH_2_ENGLISH_DIFFERENT_COLOURS%2Fplaylist.m3u8.enc
+[2025-07-16T05:38:55.899Z] 📥 Raw encfile request: encfile:///Class%201/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/playlist.m3u8.enc
+[2025-07-16T05:38:55.899Z] ✅ Decoded path: /Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/playlist.m3u8.enc
+[2025-07-16T05:38:55.900Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/playlist.m3u8.enc
+[2025-07-16T05:38:56.021Z] 📥 Raw encfile request: encfile:///Class%201/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_000.ts.enc
+[2025-07-16T05:38:56.021Z] ✅ Decoded path: /Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_000.ts.enc
+[2025-07-16T05:38:56.021Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_000.ts.enc
+[2025-07-16T05:38:56.154Z] 📥 Raw encfile request: encfile:///Class%201/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_001.ts.enc
+[2025-07-16T05:38:56.155Z] ✅ Decoded path: /Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_001.ts.enc
+[2025-07-16T05:38:56.155Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_001.ts.enc
+[2025-07-16T05:38:56.185Z] 📥 Raw encfile request: encfile:///Class%201/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_002.ts.enc
+[2025-07-16T05:38:56.185Z] ✅ Decoded path: /Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_002.ts.enc
+[2025-07-16T05:38:56.185Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_002.ts.enc
+[2025-07-16T05:38:58.721Z] 📥 Raw encfile request: encfile:///Class%201/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_003.ts.enc
+[2025-07-16T05:38:58.721Z] ✅ Decoded path: /Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_003.ts.enc
+[2025-07-16T05:38:58.721Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 1/English/ENGLISH_ADVENTURE_BOOK/AARAV_AND_KAVYA__CLASS_1_CHAPTER_6/segment_003.ts.enc
+[2025-07-16T05:39:04.239Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:39:04.240Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:39:05.741Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 5
+[2025-07-16T05:39:05.742Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:39:07.661Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science
+[2025-07-16T05:39:07.678Z] 🎬 Videos found: 30
+[2025-07-16T05:39:07.678Z] ✅ 1. AMAZING SCIENCE - CHAPTER-1 - REPRODUCTION IN PLANTS - 16:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2F1.%20AMAZING_SCIENCE%20-%20CHAPTER-1%20-%20REPRODUCTION_IN_PLANTS%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.678Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 2   FOOD AND HEALTH - 23:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.678Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 3   SAFETY AND FIRST AID - 13:39 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_3___SAFETY_AND_FIRST_AID%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 4   A HOUSE TO LIVE IN - 10:38 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_4___A_HOUSE_TO_LIVE_IN%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 5   SOLIDS  LIQUIDS AND GASES - 12:41 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_5___SOLIDS__LIQUIDS_AND_GASES%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE   CHAPTER   ROCKS AND MINERALS - 20:06 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE___CHAPTER___ROCKS_AND_MINERALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE    CHAPTER   SOIL EROSION AND SOIL CONSERVATION - 10:49 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE____CHAPTER___SOIL_EROSION_AND_SOIL_CONSERVATION%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ SCIENCE CHAPTER   AMAZING WORLD OF ANIMALS   CLASS 5 - 17:30 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___AMAZING_WORLD_OF_ANIMALS___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ SCIENCE CHAPTER   FORCE AND ENRGY   CLASS 5 - 19:46 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___FORCE_AND_ENRGY___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ SCIENCE CHAPTER   MOON THE NATURAL SATELLITE OF THE EARTH   CLASS 5 - 17:22 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___MOON_THE_NATURAL_SATELLITE_OF_THE_EARTH___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.679Z] ✅ SCIENCE CHAPTER   NATURAL CALAMITIES   CLASS 5 - 11:24 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___NATURAL_CALAMITIES___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ SCIENCE CHAPTER   OUR ENVIRONMENT   CLASS 5 - 13:47 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_ENVIRONMENT___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ SCIENCE CHAPTER   OUR NERVOUS SYSTEM   CLASS 5 - 16:20 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_NERVOUS_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ SCIENCE CHAPTER   OUR SKELETAL SYSTEM   CLASS 5 - 15:33 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_SKELETAL_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ SCIENCE CHAPTER    ESSENTIALS FOR LIFE   CLASS 5 - 25:59 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER____ESSENTIALS_FOR_LIFE___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ AIR AND WATER   CLASS 5   CHAPTER 12 - 15:34 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FAIR_AND_WATER___CLASS_5___CHAPTER_12%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ ANIMAL KINGDOM   CLASS 5   CHAPTER 5 - 15:48 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FANIMAL_KINGDOM___CLASS_5___CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ CHANGES IN OUR ENVIRONMENT   CLASS 5   CHAPTER 14 - 9:32 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FCHANGES_IN_OUR_ENVIRONMENT___CLASS_5___CHAPTER_14%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ FOOD AND HEALTH   CLASS 5   CHAPTER 1 - 15:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FFOOD_AND_HEALTH___CLASS_5___CHAPTER_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ GERMS AND DISEASES   CLASS 5   CHAPTER 9 - 18:05 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FGERMS_AND_DISEASES___CLASS_5___CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.680Z] ✅ MATERIALS FROM EARTH   CLASS 5   CHAPTER 3 - 8:56 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FMATERIALS_FROM_EARTH___CLASS_5___CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ NATURAL DISASTERS   CLASS 5   CHAPTER 15 - 8:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FNATURAL_DISASTERS___CLASS_5___CHAPTER_15%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ REPRODUCTION IN PLANTS   CLASS 5   CHAPTER 6 - 13:06 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FREPRODUCTION_IN_PLANTS___CLASS_5___CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ SAFETY AND FIRST AID   CLASS 5   CHAPTER 10 - 13:19 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSAFETY_AND_FIRST_AID___CLASS_5___CHAPTER_10%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ SIMPLE MACHINES   CLASS 5   CHAPTER 11 - 10:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSIMPLE_MACHINES___CLASS_5___CHAPTER_11%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ SOIL EROSION AND SOIL CONSERVATION   CLASS 5   CHAPTER 2 - 8:14 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSOIL_EROSION_AND_SOIL_CONSERVATION___CLASS_5___CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ STATES OF MATTER   CLASS 5   CHAPTER 4 - 15:09 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSTATES_OF_MATTER___CLASS_5___CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ THE CIRCULATORY AND THE EXCRETORY SYSTEM   CLASS 5   CHAPTER 8 - 13:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_CIRCULATORY_AND_THE_EXCRETORY_SYSTEM___CLASS_5___CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.681Z] ✅ THE SKELETAL SYSTEM AND THE NERVOUR SYSTEM   CASS 5   CHAPTER 7 - 17:33 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_SKELETAL_SYSTEM_AND_THE_NERVOUR_SYSTEM___CASS_5___CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:07.682Z] ✅ THE UNIVERSE AND ITS NATURAL OBJECTS   CLASS 5   CHAPTER 13 - 12:57 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_UNIVERSE_AND_ITS_NATURAL_OBJECTS___CLASS_5___CHAPTER_13%2Fplaylist.m3u8.enc
+[2025-07-16T05:39:09.742Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:39:09.742Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:39:09.743Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:39:09.860Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:39:09.860Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:39:09.860Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:39:09.975Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:39:09.976Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:39:09.976Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:39:10.000Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:39:10.000Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:39:10.000Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:39:13.769Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:39:13.770Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:43:00.497Z] 📂 BASE_PATH: /home/hemanth/Desktop/Pratham
+[2025-07-16T05:43:00.499Z] 📂 VIDEO_PATH: /home/hemanth/Desktop/Pratham/enc_videos
+[2025-07-16T05:43:00.499Z] 🔍 UUID Check: 0fa056bcd5c1436fb7205d7b25453b72
+[2025-07-16T05:43:00.500Z] ✅ Authorized
+[2025-07-16T05:43:01.040Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:43:01.042Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:43:26.484Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:43:26.485Z] ✅ Subjects: EVS, English, Mathematics
+[2025-07-16T05:43:27.598Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/Class 5
+[2025-07-16T05:43:27.599Z] ✅ Subjects: EVS, English, Hindi, Maths, Science, Social, Telugu
+[2025-07-16T05:43:28.615Z] 📂 Recursive scan in: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science
+[2025-07-16T05:43:28.636Z] 🎬 Videos found: 30
+[2025-07-16T05:43:28.636Z] ✅ 1. AMAZING SCIENCE - CHAPTER-1 - REPRODUCTION IN PLANTS - 16:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2F1.%20AMAZING_SCIENCE%20-%20CHAPTER-1%20-%20REPRODUCTION_IN_PLANTS%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.636Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 2   FOOD AND HEALTH - 23:08 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.636Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 3   SAFETY AND FIRST AID - 13:39 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_3___SAFETY_AND_FIRST_AID%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.636Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 4   A HOUSE TO LIVE IN - 10:38 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_4___A_HOUSE_TO_LIVE_IN%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ APPLE AMAZING SCIENCE   CLASS 5   CHAPTER 5   SOLIDS  LIQUIDS AND GASES - 12:41 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FAPPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_5___SOLIDS__LIQUIDS_AND_GASES%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE   CHAPTER   ROCKS AND MINERALS - 20:06 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE___CHAPTER___ROCKS_AND_MINERALS%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ BLUE BERRY AND IDISCOVER CLASS 5 SCIENCE    CHAPTER   SOIL EROSION AND SOIL CONSERVATION - 10:49 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FBLUE_BERRY_AND_IDISCOVER_CLASS_5_SCIENCE____CHAPTER___SOIL_EROSION_AND_SOIL_CONSERVATION%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ SCIENCE CHAPTER   AMAZING WORLD OF ANIMALS   CLASS 5 - 17:30 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___AMAZING_WORLD_OF_ANIMALS___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ SCIENCE CHAPTER   FORCE AND ENRGY   CLASS 5 - 19:46 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___FORCE_AND_ENRGY___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ SCIENCE CHAPTER   MOON THE NATURAL SATELLITE OF THE EARTH   CLASS 5 - 17:22 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___MOON_THE_NATURAL_SATELLITE_OF_THE_EARTH___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.637Z] ✅ SCIENCE CHAPTER   NATURAL CALAMITIES   CLASS 5 - 11:24 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___NATURAL_CALAMITIES___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ SCIENCE CHAPTER   OUR ENVIRONMENT   CLASS 5 - 13:47 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_ENVIRONMENT___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ SCIENCE CHAPTER   OUR NERVOUS SYSTEM   CLASS 5 - 16:20 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_NERVOUS_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ SCIENCE CHAPTER   OUR SKELETAL SYSTEM   CLASS 5 - 15:33 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER___OUR_SKELETAL_SYSTEM___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ SCIENCE CHAPTER    ESSENTIALS FOR LIFE   CLASS 5 - 25:59 - encfile://Class%205%2FScience%2FBook___AMAZING_SCIENCE_CLASS_5%2FSCIENCE_CHAPTER____ESSENTIALS_FOR_LIFE___CLASS_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ AIR AND WATER   CLASS 5   CHAPTER 12 - 15:34 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FAIR_AND_WATER___CLASS_5___CHAPTER_12%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ ANIMAL KINGDOM   CLASS 5   CHAPTER 5 - 15:48 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FANIMAL_KINGDOM___CLASS_5___CHAPTER_5%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ CHANGES IN OUR ENVIRONMENT   CLASS 5   CHAPTER 14 - 9:32 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FCHANGES_IN_OUR_ENVIRONMENT___CLASS_5___CHAPTER_14%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ FOOD AND HEALTH   CLASS 5   CHAPTER 1 - 15:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FFOOD_AND_HEALTH___CLASS_5___CHAPTER_1%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.638Z] ✅ GERMS AND DISEASES   CLASS 5   CHAPTER 9 - 18:05 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FGERMS_AND_DISEASES___CLASS_5___CHAPTER_9%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ MATERIALS FROM EARTH   CLASS 5   CHAPTER 3 - 8:56 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FMATERIALS_FROM_EARTH___CLASS_5___CHAPTER_3%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ NATURAL DISASTERS   CLASS 5   CHAPTER 15 - 8:27 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FNATURAL_DISASTERS___CLASS_5___CHAPTER_15%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ REPRODUCTION IN PLANTS   CLASS 5   CHAPTER 6 - 13:06 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FREPRODUCTION_IN_PLANTS___CLASS_5___CHAPTER_6%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ SAFETY AND FIRST AID   CLASS 5   CHAPTER 10 - 13:19 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSAFETY_AND_FIRST_AID___CLASS_5___CHAPTER_10%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ SIMPLE MACHINES   CLASS 5   CHAPTER 11 - 10:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSIMPLE_MACHINES___CLASS_5___CHAPTER_11%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ SOIL EROSION AND SOIL CONSERVATION   CLASS 5   CHAPTER 2 - 8:14 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSOIL_EROSION_AND_SOIL_CONSERVATION___CLASS_5___CHAPTER_2%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ STATES OF MATTER   CLASS 5   CHAPTER 4 - 15:09 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FSTATES_OF_MATTER___CLASS_5___CHAPTER_4%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.639Z] ✅ THE CIRCULATORY AND THE EXCRETORY SYSTEM   CLASS 5   CHAPTER 8 - 13:16 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_CIRCULATORY_AND_THE_EXCRETORY_SYSTEM___CLASS_5___CHAPTER_8%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.640Z] ✅ THE SKELETAL SYSTEM AND THE NERVOUR SYSTEM   CASS 5   CHAPTER 7 - 17:33 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_SKELETAL_SYSTEM_AND_THE_NERVOUR_SYSTEM___CASS_5___CHAPTER_7%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:28.640Z] ✅ THE UNIVERSE AND ITS NATURAL OBJECTS   CLASS 5   CHAPTER 13 - 12:57 - encfile://Class%205%2FScience%2FBook___THE_SCIENCE_TREK_5%2FTHE_UNIVERSE_AND_ITS_NATURAL_OBJECTS___CLASS_5___CHAPTER_13%2Fplaylist.m3u8.enc
+[2025-07-16T05:43:30.384Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:43:30.385Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:43:30.385Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/playlist.m3u8.enc
+[2025-07-16T05:43:30.521Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:43:30.521Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:43:30.521Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_000.ts.enc
+[2025-07-16T05:43:30.645Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:43:30.646Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:43:30.646Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_001.ts.enc
+[2025-07-16T05:43:30.664Z] 📥 Raw encfile request: encfile:///Class%205/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:43:30.664Z] ✅ Decoded path: /Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:43:30.664Z] 📦 Full decrypted file path: /home/hemanth/Desktop/Pratham/enc_videos/Class 5/Science/Book___AMAZING_SCIENCE_CLASS_5/APPLE_AMAZING_SCIENCE___CLASS_5___CHAPTER_2___FOOD_AND_HEALTH/segment_002.ts.enc
+[2025-07-16T05:43:34.512Z] 📁 Scanning class: /home/hemanth/Desktop/Pratham/enc_videos/LKG
+[2025-07-16T05:43:34.512Z] ✅ Subjects: EVS, English, Mathematics

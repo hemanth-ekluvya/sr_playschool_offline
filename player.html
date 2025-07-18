@@ -80,7 +80,6 @@
       document.getElementById("videoTitle").innerText = videoTitle;
 
       if (Hls.isSupported()) {
-        // ✅ Ensure the encfile URL is correctly formatted
         const decodedSrc = decodeURIComponent(videoSrc);
         const properSrc = decodedSrc.replace(/^encfile:\/{2}/, "encfile:///");
 
@@ -89,17 +88,32 @@
         const hls = new Hls();
         hls.loadSource(properSrc);
         hls.attachMedia(video);
+
         hls.on(Hls.Events.MANIFEST_PARSED, () => {
           video.play();
         });
+
         hls.on(Hls.Events.ERROR, function (event, data) {
           console.error(`❌ HLS error: ${data.type} - ${data.details}`);
         });
       } else {
         console.error("❌ HLS not supported.");
-        video.src = properSrc;
+        video.src = videoSrc;
         video.play();
       }
+
+      const startTime = new Date().toLocaleTimeString();
+
+      window.addEventListener("beforeunload", () => {
+        const endTime = new Date().toLocaleTimeString();
+        if (window.trackingAPI?.logVideoPlay) {
+          window.trackingAPI.logVideoPlay({
+            title: videoTitle,
+            startTime,
+            endTime,
+          });
+        }
+      });
 
       function goBack() {
         window.history.back();

@@ -136,9 +136,9 @@
         <div class="text-center">
           <div class="mx-auto flex items-center justify-center mb-4">
             <img
-              src="public/images/logo_main.svg"
-              alt="Logo"
+              src="https://www.srdigischoolgajuwaka.com/wp-content/uploads/2025/06/SR-Logo.jpg"
               class="h-30 w-30"
+              alt="Logo"
             />
           </div>
         </div>
@@ -157,6 +157,9 @@
           >
             About Us
           </button>
+          <button class="btn btn-outline-light" onclick="showUserProfile()">
+            <i class="fas fa-user-circle"></i>
+          </button>
         </header>
 
         <!-- Add this inside <main> right after the header -->
@@ -168,6 +171,34 @@
             <li class="breadcrumb-item"><a onclick="goHome()">Home</a></li>
           </ol>
         </nav>
+
+        <div
+          class="modal fade"
+          id="userProfileModal"
+          tabindex="-1"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">User Profile</h5>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="modal-body">
+                <p><strong>School:</strong> <span id="profileSchool"></span></p>
+                <p><strong>Class:</strong> <span id="profileClass"></span></p>
+                <p>
+                  <strong>Teacher:</strong> <span id="profileTeacher"></span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="container mt-2" id="subjectsContainer">
           <div
@@ -355,6 +386,22 @@
         window.playVideo = playVideo;
         window.goHome = goHome;
       });
+      function showUserProfile() {
+        // Call exposed API to get user info
+        if (window.electronAPI?.getUserInfo) {
+          window.electronAPI.getUserInfo().then((data) => {
+            document.getElementById("profileSchool").innerText =
+              data.school || "-";
+            document.getElementById("profileClass").innerText =
+              data.className || "-";
+            document.getElementById("profileTeacher").innerText =
+              data.teacher || "-";
+            new bootstrap.Modal(
+              document.getElementById("userProfileModal")
+            ).show();
+          });
+        }
+      }
     </script>
   </body>
 </html>

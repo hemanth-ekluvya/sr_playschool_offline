@@ -24,6 +24,7 @@
     "files": [
       "main.js",
       "index.html",
+      "aboutus.html",
       "player.html",
       "preload.js",
       "debug-log.txt",

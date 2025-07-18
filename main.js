@@ -9,17 +9,20 @@ const IV = "abcdef1234567890";
 const SALT = "srschools";
 
 const isPackaged = app.isPackaged;
-
 const BASE_PATH = isPackaged ? path.dirname(process.execPath) : __dirname;
 const VIDEO_PATH = path.join(BASE_PATH, "enc_videos");
 const LICENSE_KEY_PATH = path.join(BASE_PATH, "license.key");
 const DEBUG_LOG_PATH = path.join(BASE_PATH, "debug-log.txt");
+const TRACKING_LOG_PATH = path.join(BASE_PATH, "tracking.log");
+const PUBLIC_PATH = path.join(BASE_PATH, "public");
 
 function debugLog(msg) {
   const log = `[${new Date().toISOString()}] ${msg}`;
   console.log(log);
   fs.appendFileSync(DEBUG_LOG_PATH, log + "\n");
 }
+
+let currentUser = null;
 
 function decryptUUID(encUUID) {
   const decipher = crypto.createDecipheriv(
@@ -30,6 +33,23 @@ function decryptUUID(encUUID) {
   let decrypted = decipher.update(encUUID, "base64", "utf8");
   decrypted += decipher.final("utf8");
   return decrypted;
+}
+
+function decryptFile(buffer) {
+  const decipher = crypto.createDecipheriv(
+    "aes-256-cbc",
+    Buffer.from(ENCRYPTION_KEY),
+    IV
+  );
+  return Buffer.concat([decipher.update(buffer), decipher.final()]);
+}
+
+function getMimeType(filePath) {
+  if (filePath.endsWith(".m3u8.enc") || filePath.endsWith(".m3u8"))
+    return "application/vnd.apple.mpegurl";
+  if (filePath.endsWith(".ts.enc") || filePath.endsWith(".ts"))
+    return "video/MP2T";
+  return "application/octet-stream";
 }
 
 async function isAuthorized() {
@@ -67,71 +87,43 @@ async function isAuthorized() {
   }
 }
 
-// 🔄 Decrypt video files
-function decryptFile(buffer) {
-  const decipher = crypto.createDecipheriv(
-    "aes-256-cbc",
-    Buffer.from(ENCRYPTION_KEY),
-    IV
-  );
-  return Buffer.concat([decipher.update(buffer), decipher.final()]);
-}
-
-function getMimeType(filePath) {
-  if (filePath.endsWith(".m3u8.enc") || filePath.endsWith(".m3u8"))
-    return "application/vnd.apple.mpegurl";
-  if (filePath.endsWith(".ts.enc") || filePath.endsWith(".ts"))
-    return "video/MP2T";
-  return "application/octet-stream";
-}
-
-// 🚀 App Start
 app.whenReady().then(async () => {
   const authorized = await isAuthorized();
-
   if (!authorized) {
     dialog.showErrorBox(
       "Unauthorized Device",
-      "This application requires a valid license key to operate. If you do not have a license key or need any assistance, please contact SR Head Office for support."
+      "This application requires a valid license key. Contact SR Head Office for support."
     );
     app.quit();
     return;
   }
 
-  // 🔗 Register custom protocol
   protocol.registerBufferProtocol("encfile", (request, respond) => {
-    const requestedUrl = request.url;
-    debugLog(`📥 Raw encfile request: ${requestedUrl}`);
-
-    let relativePath;
-    try {
-      relativePath = decodeURIComponent(requestedUrl.replace("encfile://", ""));
-      debugLog(`✅ Decoded path: ${relativePath}`);
-    } catch (err) {
-      debugLog(`❌ URL decode failed: ${err.message}`);
-      respond({ statusCode: 400 });
-      return;
-    }
-
+    const relativePath = decodeURIComponent(
+      request.url.replace("encfile://", "")
+    );
     const fullPath = path.join(VIDEO_PATH, relativePath);
-    debugLog(`📦 Full decrypted file path: ${fullPath}`);
+    debugLog(`📦 Requested encrypted file: ${fullPath}`);
 
     try {
       const encrypted = fs.readFileSync(fullPath);
       const decrypted = decryptFile(encrypted);
-      respond({
-        mimeType: getMimeType(fullPath),
-        data: decrypted,
-      });
+      respond({ mimeType: getMimeType(fullPath), data: decrypted });
     } catch (err) {
       debugLog(`❌ Decryption failed: ${err.message}`);
       respond({ statusCode: 500 });
     }
   });
 
+  protocol.registerFileProtocol("asset", (request, callback) => {
+    const fileUrl = decodeURIComponent(request.url.replace("asset://", ""));
+    const finalPath = path.join(PUBLIC_PATH, fileUrl);
+    callback({ path: finalPath });
+  });
+
   const win = new BrowserWindow({
-    width: 1000,
-    height: 700,
+    width: 1200,
+    height: 800,
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
@@ -139,20 +131,27 @@ app.whenReady().then(async () => {
     },
   });
 
-  win.loadFile("index.html");
+  win.loadFile("startup.html");
 
   app.on("activate", () => {
-    if (BrowserWindow.getAllWindows().length === 0) createWindow();
+    if (BrowserWindow.getAllWindows().length === 0)
+      win.loadFile("startup.html");
   });
 });
 
 app.on("window-all-closed", () => {
+  if (currentUser) {
+    const log = `[${new Date().toLocaleString()}] USER LOGOUT: ${JSON.stringify(
+      currentUser
+    )}\n`;
+    fs.appendFileSync(TRACKING_LOG_PATH, log, "utf-8");
+    currentUser = null;
+  }
   if (process.platform !== "darwin") app.quit();
 });
 
 app.commandLine.appendSwitch("disable-gpu");
 
-// --- IPC: Get Subjects ---
 ipcMain.handle("get-subjects", async (event, className) => {
   const classDir = path.join(VIDEO_PATH, className);
   debugLog(`📁 Scanning class: ${classDir}`);
@@ -171,7 +170,6 @@ ipcMain.handle("get-subjects", async (event, className) => {
   return subjects;
 });
 
-// --- IPC: Get Topics ---
 ipcMain.handle("get-topics", async (event, className, subjectName) => {
   const subjectPath = path.join(VIDEO_PATH, className, subjectName);
   debugLog(`📁 Checking topics in: ${subjectPath}`);
@@ -188,7 +186,6 @@ ipcMain.handle("get-topics", async (event, className, subjectName) => {
     const hasPlaylist = fs
       .readdirSync(topicPath)
       .some((f) => f.endsWith(".m3u8.enc"));
-
     return hasPlaylist;
   });
 
@@ -198,20 +195,16 @@ ipcMain.handle("get-topics", async (event, className, subjectName) => {
 
 function findVideoFoldersRecursively(basePath) {
   const videoFolders = [];
-
   function traverse(currentPath) {
     if (!fs.existsSync(currentPath)) return;
 
     const entries = fs.readdirSync(currentPath, { withFileTypes: true });
-
     for (const entry of entries) {
       const fullPath = path.join(currentPath, entry.name);
-
       if (entry.isDirectory()) {
         const hasPlaylist = fs
           .readdirSync(fullPath)
           .some((f) => f.endsWith(".m3u8.enc"));
-
         if (hasPlaylist) {
           videoFolders.push(fullPath);
         } else {
@@ -220,7 +213,6 @@ function findVideoFoldersRecursively(basePath) {
       }
     }
   }
-
   traverse(basePath);
   return videoFolders;
 }
@@ -287,3 +279,31 @@ ipcMain.handle(
     return results;
   }
 );
+
+ipcMain.on("save-user-info", (event, data) => {
+  currentUser = data;
+  const log = `[${new Date().toLocaleString()}] USER LOGIN: ${JSON.stringify(
+    currentUser
+  )}\n`;
+  fs.appendFileSync(TRACKING_LOG_PATH, log, "utf-8");
+});
+
+ipcMain.handle("get-user-info", () => {
+  return currentUser || {};
+});
+
+ipcMain.on("video-play-log", (event, { title, startTime, endTime }) => {
+  const log = `[${title}] [${startTime} to ${endTime}]\n`;
+  fs.appendFileSync(TRACKING_LOG_PATH, log, "utf-8");
+});
+
+app.on("window-all-closed", () => {
+  if (currentUser) {
+    const log = `[${new Date().toLocaleString()}] USER LOGOUT: ${JSON.stringify(
+      currentUser
+    )}\n`;
+    fs.appendFileSync(TRACKING_LOG_PATH, log, "utf-8");
+    currentUser = null;
+  }
+  if (process.platform !== "darwin") app.quit();
+});
